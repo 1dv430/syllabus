@@ -7,7 +7,7 @@ __Kursansvarig__
 
 * Epost: johan.leitet@lnu.se
 * Skype: hiktstjo
-* GitHub: []leitet
+* GitHub: [leitet](https://github.com/leitet)
 * Twitter: @Leitet
 
 ###[John Häggerud](http://lnu.se/personal/john.haggerud)
