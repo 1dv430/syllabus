@@ -13,85 +13,95 @@ Följande moment genomförs varje iteration (vecka):
 * Projektet avslutas med redovisning i form av en muntlig presentation för campus-studenter och en webb-presentation för distansstudenter samt en projektrapport.
 * Aktivt ansvarsfullt deltagande, vilket innebär att man engagerar sig i projektets alla delar, sköter sin tidsrapportering och arbetar ca 180 (+60 om kursen kombineras med gränssnittskursen) timmar i projektet.
 
-## Vecka 13 (Iteration -1, Uppstart)
+## Vecka 13 (Iteration -1, Kursuppstart)
 ### Uppgifter
-* Kursinntroduktion, 23/3 13:15-15:00 Ny227 och <a href="https://connect.sunet.se/lecture-1dv430/">online</a> via connecklassrummet.
-* Du är medveten om processen och arbetsmomenten som skall genomföras.
+
+* Kursintroduktion, 23/3 2015 13:15-15:00 Ny227 och <a href="https://connect.sunet.se/lecture-1dv430/">online</a> via connecklassrummet.
+* Du är medveten om processen och arbetsmomenten som skall genomföras. Gå igenom allt material på kursens webbplats och dess repo på GitHub.
 * Läs minst 3 gamla [post mortems](http://coursepress.lnu.se/kurs/individuellt-mjukvaruutvecklingsprojekt/projektet/post-mortem/) och fundera över vad de gjorde bra och dåligt, vilka erfarenheter tar du till dig?
-* Visionen påbörjas (fokus på problem/bakgrund samt teknik) och mailas till TODO: ADD 
-* Tidsrapport för första veckans arbete.
+* Strukturea din Wiki-sida på GitHub. 
+* Visionen påbörjas (fokus på problem/bakgrund samt teknik) skrivs in i Wikin. 
+* Tidsrapport för första veckans arbete läggs upp i Wikin.
 * Skapa en plan för iteration 0 (se iterationsplan).
 
 ## Vecka 14 (Iteration 0, Inception)
 ### Uppgifter
+
 _OBS! Inget handledarmöte denna vecka!_
+
 * Visionen skall "färdigställas" (fokus på unika-baskrav, slutanvändare och konkurrerande/liknande system).
 * Kravspecifikation påbörjas.
 * Implementationen påbörjas, kanske i form av prototyper. Undersök teknik, vad verkar svårt?
 * Kontinuerligt arbete med dokumentation
 * Skapa en plan för iteration 1 (se iterationsplan).
-* Torsdag innan 15:00 skapa ett respositorie och bjud in handledare som collaborators.
-* Torsdag efter 15:00 Du ska nu även ha fått en grupp, stäm av med varandra hur ni ser på arbetet , kursen och vad ni förväntar er av varandra.
-* Tid för gruppens handledarmöte bestäms.
+* Tid för gruppens handledarmöte bestäms. (Ansv. kursledning)
 
-<h2>Vecka 16 (Iteration 1, Elaboration)</h2>
-<h3>Uppgifter</h3>
-<ul>
-    <li>Handledarmöte med leverans och presentation av förra veckans arbete; vision, implementation, iterationsplan och tidsrapport.</li>
-    <li>Finslipning av vision</li>
-    <li>Implementation av högriskteknik och högriskkrav.</li>
-    <li>Testspecifikation med testfall påbörjas</li>
-    <li>Systemtest och testrapport</li>
-    <li>Kontinuerligt arbete med dokumentation</li>
-</ul>
-<h2>Vecka 17 (Iteration 2, Elaboration)</h2>
-<h3>Uppgifter</h3>
-<ul>
-    <li>Handledarmöte med leverans och presentation av förra veckans arbete; implementation, testrapport, iterationsplan och tidsrapport.</li>
-    <li>Kontinuerligt arbete med dokumentation</li>
-    <li>Fortsatt Implementation av högrisk teknik och högrisk krav.</li>
-    <li>Systemtest och testrapport</li>
-</ul>
-<h2>Vecka 18 (Iteration 3, Elaboration)</h2>
-<h3>Uppgifter</h3>
-<ul>
-    <li>Handledarmöte med leverans och presentation av förra veckans arbete; implementation, testrapport, iterationsplan och tidsrapport.</li>
-    <li>Kontinuerligt arbete med dokumentation (iterationsplan, risklista, kravspec, testspec, tidsrapporter)</li>
-    <li>Implementation av arkitektur skall nu vara klar och inga stora tekniska risker skall återstå.</li>
-    <li>Systemtest och testrapport</li>
-</ul>
-<h2>Vecka 19 (Iteration 4, Construction)</h2>
-<h3>Uppgifter</h3>
-<ul>
-    <li>Handledarmöte med leverans och presentation av förra veckans arbete; implementation, testrapport, iterationsplan och tidsrapport. Demonstrera att milstenten för elaboration är uppnådd; en implementerad, testad och levererad arkitektur.</li>
-    <li>Kontinuerligt arbete med dokumentation (projektplan, risklista, kravspec, testspec, tidsrapporter)</li>
-    <li>Systemtest och testrapport</li>
-</ul>
-<h2>Vecka 20 (Iteration 5, Construction)</h2>
-<h3>Uppgifter</h3>
-<ul>
-    <li>Handledarmöte med leverans och presentation av förra veckans arbete; implementation, testrapport, iterationsplan och tidsrapport.</li>
-    <li>Kontinuerligt arbete med dokumentation (från krav till test)</li>
-</ul>
-<h2>Vecka 21 (Iteration 6, Construction)</h2>
-<h3>Uppgifter</h3>
-<ul>
-    <li>Handledarmöte med leverans och presentation av förra veckans arbete; implementation, testrapport, iterationsplan och tidsrapport.</li>
-    <li>Kontinuerligt arbete med dokumentation (från krav till test)</li>
-    <li>Systemtest och testrapport</li>
-</ul>
-<h2>Vecka 22 (Iteration 7, Transition)</h2>
-<h3>Uppgifter</h3>
-<ul>
-    <li>Handledarmöte med leverans och presentation av förra veckans arbete; vision, implementation, testrapport, iterationsplan och tidsrapport.</li>
-    <li>Kontinuerligt arbete med dokumentation (från krav till test)</li>
-    <li>Systemtest och testrapport</li>
-</ul>
-<h2>Vecka 23 (Avslut)</h2>
-<h3>Uppgifter</h3>
-<ul>
-    <li>Färdigställande av dokumentation</li>
-    <li>Systemtest och testrapport</li>
-    <li>Projektpresentation 4/6 08:15-13:00 för campus och 14:15-17:00 för distans</li>
-    <li>Projektavslut och Projektrapport (Deadline för slutinlämning 9/6 - 12:00)</li>
-</ul>
+## Vecka 15 (Iteration 1, Elaboration)
+### Uppgifter
+
+* Handledarmöte med leverans och presentation av förra veckans arbete; vision, implementation, iterationsplan och tidsrapport.
+* Finslipning av vision
+* Implementation av högriskteknik och högriskkrav.
+* Testspecifikation med testfall påbörjas
+* Systemtest och testrapport
+* Kontinuerligt arbete med dokumentation
+
+## Vecka 16 (Iteration 2, Elaboration)
+### Uppgifter
+
+* Handledarmöte med leverans och presentation av förra veckans arbete; implementation, testrapport, iterationsplan och tidsrapport.
+* Kontinuerligt arbete med dokumentation
+* Fortsatt Implementation av högrisk teknik och högrisk krav.</li>
+* Systemtest och testrapport
+
+
+## Vecka 17 (Iteration 3, Elaboration)
+### Uppgifter
+
+* Handledarmöte med leverans och presentation av förra veckans arbete; implementation, testrapport, iterationsplan och tidsrapport.
+* Kontinuerligt arbete med dokumentation (iterationsplan, risklista, kravspec, testspec, tidsrapporter)
+* Implementation av arkitektur skall nu vara klar och inga stora tekniska risker skall återstå.
+* Systemtest och testrapport
+
+## Vecka 18 (Iteration 4, Construction)
+### Uppgifter
+
+* Handledarmöte med leverans och presentation av förra veckans arbete; implementation, testrapport, iterationsplan och tidsrapport.
+* Kontinuerligt arbete med dokumentation (iterationsplan, risklista, kravspec, testspec, tidsrapporter)
+* Implementation av arkitektur skall nu vara klar och inga stora tekniska risker skall återstå.
+* Systemtest och testrapport
+
+## Vecka 19 (Iteration 5, Construction)
+### Uppgifter
+
+* Handledarmöte med leverans och presentation av förra veckans arbete; implementation, testrapport, iterationsplan och tidsrapport. Demonstrera att milstenten för elaboration är uppnådd; en implementerad, testad och levererad arkitektur.
+* Kontinuerligt arbete med dokumentation (projektplan, risklista, kravspec, testspec, tidsrapporter)
+* Systemtest och testrapport
+
+## Vecka 20 (Iteration 6, Construction)
+### Uppgifter
+
+* Handledarmöte med leverans och presentation av förra veckans arbete; implementation, testrapport, iterationsplan och tidsrapport.
+* Kontinuerligt arbete med dokumentation (från krav till test)
+
+## Vecka 21 (Iteration 7, Construction)
+### Uppgifter
+
+* Handledarmöte med leverans och presentation av förra veckans arbete; implementation, testrapport, iterationsplan och tidsrapport.
+* Kontinuerligt arbete med dokumentation (från krav till test)
+* Systemtest och testrapport
+
+## Vecka 22 (Iteration 8, Transition)
+### Uppgifter
+
+* Handledarmöte med leverans och presentation av förra veckans arbete; vision, implementation, testrapport, iterationsplan och tidsrapport.
+* Kontinuerligt arbete med dokumentation (från krav till test)
+* Systemtest och testrapport
+
+## Vecka 23 (Avslut)
+### Uppgifter
+
+* Färdigställande av dokumentation
+* Systemtest och testrapport
+* Projektpresentationer
+* Projektavslut och Projektrapport (Deadline för slutinlämning 8/6 - 12:00)
