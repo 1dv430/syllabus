@@ -21,8 +21,8 @@ Följande moment genomförs varje iteration (vecka):
 * **Handledarmöte:** Ett kort möte i början på iterationen där iterationsplanen gås igenom, tidsrapporten kontrolleras, risker diskuteras och övriga problem tas upp. Alla i gruppen ska närvara.
 * **Test:** Systemet skall testas och en rapport över vad som fungerar och inte skall göras.
 * **Leverans och återkoppling:** I slutet av varje iteration så skall systemet levereras till kunden och kundens återkoppling skall omhändertas.
-    - _Tidsrapportering_
-    - _Ny Iterationsplan:_ I slutet av varje iteration så skall en plan för nästa iteration tas fram baserad på risk och återkoppling från kund.
+* **Tidsrapportering**
+* **Ny Iterationsplan:** I slutet av varje iteration så skall en plan för nästa iteration tas fram baserad på risk och återkoppling från kund.
 
 Följande dokument är obligatoriska att lämna in i slutet på projektet, du kommer att arbeta kontinuerligt med dessa genom hela projektet.
 * Iterationsplaner
