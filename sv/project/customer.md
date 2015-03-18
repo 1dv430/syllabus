@@ -17,7 +17,8 @@ Det ni bör fokuser på i början är att få information så att ni kan börja 
 * Några specifika mätbara mål som kan formuleras?
 * Finns det liknande system som man kan jämföra med?
 * Vilka baskrav finns på applikationen?
-* Kundengagemang och leverans
+
+## Kundengagemang och leverans
 
 Den iterativa utvecklingsprocessen bygger på återkoppling från kund och slutanvändare. Det är alltså mycket viktigt att man engagerar kunden i projektet genom att leverera fungerande mjukvara och att aktivt lyssna på kundens förslag till förändringar.
 
