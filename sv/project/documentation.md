@@ -1,8 +1,13 @@
 ## Introduktion
 Nedan följer en genomgång av de dokument som man kan ha till hjälp under ett projekt. Det listade innehållet är ett förslag och det kan givetvis förändras beroende på projekt.
-            
+     
+### GitHub Wiki       
 Dokumentationen skall uteslutande presenteras via dit repros Wiki-sidor. Ett exempel på struktur tillsammans med beskrivande texter hittar du i kursens [exempelrepositorie](https://github.com/1dv430/exempelstudent/wiki/Home/).
-            
+
+Vill du veta mer om hur man arbetar med GitHub-wiki så kan du läsa om det här: [https://help.github.com/articles/about-github-wikis/](https://help.github.com/articles/about-github-wikis/)
+
+Observera att wikin i sig är ett eget repo så att du kan enkelt clona repot och arbeta med det lokalt om du så önskar, eller så använder du gränssnittet via GitHub. Det är rekommenderat att du arbetar i .md-filer men du har flera olika val.            
+
 Tänk på att göra förfarandet med dokumentationen så enkel som möjligt så att du orkar hålla den uppdaterad. Tänk också på att det är uppmuntrat att förändra det som inte funkar i dokumentationen under projektets gång.
 
 ## Varför dokumentation?
