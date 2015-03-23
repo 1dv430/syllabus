@@ -19,7 +19,7 @@ Följande moment genomförs varje iteration (vecka):
 * Kursintroduktion, 23/3 2015 13:15-15:00 Ny227 och <a href="https://connect.sunet.se/lecture-1dv430/">online</a> via connecklassrummet.
 * Du är medveten om processen och arbetsmomenten som skall genomföras. Gå igenom allt material på kursens webbplats och dess repo på GitHub.
 * Läs minst 3 gamla [post mortems](http://coursepress.lnu.se/kurs/individuellt-mjukvaruutvecklingsprojekt/projektet/post-mortem/) och fundera över vad de gjorde bra och dåligt, vilka erfarenheter tar du till dig?
-* Strukturea din Wiki-sida på GitHub. 
+* Strukturea din Wiki-sida på GitHub. ([Se exempel](https://github.com/1dv430/exempelstudent/wiki))
 * Visionen påbörjas (fokus på problem/bakgrund samt teknik) skrivs in i Wikin. 
 * Tidsrapport för första veckans arbete läggs upp i Wikin.
 * Skapa en plan för iteration 0 (se iterationsplan).

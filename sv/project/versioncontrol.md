@@ -2,7 +2,7 @@ Versionshantering är ett viktigt verktyg att kunna använda sig av som utveckla
 
 Ditt projekt (kod och annan implementation och dokumentation) skall i denna kurs versionshanteras på tjänsten GitHub. GitHub bygger på versionshanteringssystemet Git. Har du inte använt Git tidigare så finns det en [introduktion till Git och GitHub](https://coursepress.lnu.se/info/manual/kom-igang-med-github/) att börja med.
 
-Du kommer att bli tilldelad ett repositorie i början av kursen. Detta kommer att vara ett privat repro på [organizationen "1dv403"](https://github.com/1dv430) på GitHub. Du, kursledningen och din handledningsgrupp kommer att kunna se detta repo.
+Du kommer att bli tilldelad ett repositorie i början av kursen. Detta kommer att vara ett privat repo på [organizationen "1dv403"](https://github.com/1dv430) på GitHub. Du, kursledningen och din handledningsgrupp kommer att kunna se detta repo.
 
 Vad ska versionshanteras?
 
