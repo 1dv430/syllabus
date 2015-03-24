@@ -14,9 +14,9 @@ __Kursansvarig__
 __Kursansvarig__
 
 * Epost: john.haggerud@lnu.se
-* Skype: 
-* GitHub: thajo
-* Twitter:
+* Skype: john-hik
+* GitHub: [thajo](http://github.com/thajo)
+* Twitter: thajo_john
 
 ###[Mats Loock](http://lnu.se/personal/mats.loock)
 
