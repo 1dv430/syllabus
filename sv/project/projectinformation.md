@@ -26,7 +26,7 @@ Följande moment genomförs varje iteration (vecka):
 
 Följande dokument är obligatoriska att lämna in i slutet på projektet, du kommer att arbeta kontinuerligt med dessa genom hela projektet.
 * Iterationsplaner
-* Vision
+* Projektvision
 * Kravspecifikation
 * Testspecifikation och testrapporter
 * Individuell tidsrapport
