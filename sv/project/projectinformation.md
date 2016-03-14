@@ -1,11 +1,11 @@
 ## Varför projekt?
-Syftet med projektet är att du ska få möjlighet att praktiskt använda dig av de kunskaper du fått i det tidigare kurserna och att inhämta ny kunskap inom för ditt projekt relevanta områden.
+Syftet med projektet är att du ska få möjlighet att praktiskt använda dig av de kunskaper du fått i det tidigare kurserna och att inhämta ny kunskap inom för ditt projekt relevanta områden. Kursen har också ett fokus på erfarenheten kring att planera och implementera en större applikation.
 
 ## Vad krävs för betyg 3?
 På projektdelen i kursen ges betyget U (underkänt), 3 (tre), 4 (fyra) eller 5 (fem).
 
 För att uppnå betyg 3 måste alla uppgifter i projektet genomföras och bli godkända (se [projektuppgifter](http://coursepress.lnu.se/kurs/individuellt-mjukvaruutvecklingsprojekt/projektet/projektuppgifter/)).
-Applikationen måste ha en viss svårighetsgrad/storlek. Att t.ex. göra en enkel blogg är inte tillräckligt svårt/stort. Att implementera en blogg med möjligheter till kommentarer, bildgalleri, kategorier, taggar, formatering av inlägg, spamhantering är däremot tillräckligt. Det kan också vara som så att delar som inte bara rör projektet som helhet kan vägas in i svårighetsgraden. Kanske vill du använda enhetstester? Sätta upp en pipeline för kontinuerlig leverans? Är du osäker så fråga din handledare.
+Applikationen måste ha en viss svårighetsgrad/storlek. Att t.ex. göra en enkel blogg är inte tillräckligt svårt/stort. Att implementera en blogg med möjligheter till kommentarer, bildgalleri, kategorier, taggar, formatering av inlägg, spamhantering är däremot tillräckligt. Det kan också vara som så att delar som inte bara rör projektet som helhet kan vägas in i svårighetsgraden. Sätta upp en pipeline för kontinuerlig leverans? Är du osäker så fråga din handledare.
 
 Att kopiera implementation och presentera denna som sin egen betraktas som försök till vilseledande vid examination. Detta kommer att anmälas till skolans disciplinnämnd. Om du använder någon annans implementation så måste detta tydligt anges och de delar som du själv ha bidragit med markeras. Du måste även följa de licenser som den kod du använder är släppt under. Ditt projekt måste också innehålla en betydande mängd extra funktionalitet som du själv har implementerat för att uppnå betyg 3.
 
@@ -14,36 +14,36 @@ För att uppnå ett högre betyg än 3 måste alla uppgifter i projektet genomf�
 ## Arbetsmetod
 För att projekten skall flyta på ett smidigt sätt och för att man skall kunna jämföra olika projekt med varandra så skall alla projekt följa en viss utvecklingsprocess, med en viss bestämd arbetsmetod.
 
-På LNU har vi en skräddarsydd variant av den i industrin erkända processen Unified Process, processen återkommer också i Webbprojekt I som går på andra året för webbprogrammerarna. För projektledning och styrning använder vi oss av SCRUM.
+På LNU har vi en skräddarsydd variant av den i industrin erkända processen Unified Process, processen återkommer också i andra kurser senare i utbidningen. För projektledning och styrning använder vi oss av SCRUM.
 
 Följande moment genomförs varje iteration (vecka):
 
-* **Handledarmöte:** Ett kort möte i början på iterationen där iterationsplanen gås igenom, tidsrapporten kontrolleras, risker diskuteras och övriga problem tas upp. Alla i gruppen ska närvara.
-* **Test:** Systemet skall testas och en rapport över vad som fungerar och inte skall göras.
-* **Leverans och återkoppling:** I slutet av varje iteration så skall systemet levereras till kunden och kundens återkoppling skall omhändertas.
-* **Tidsrapportering**
-* **Ny Iterationsplan:** I slutet av varje iteration så skall en plan för nästa iteration tas fram baserad på risk och återkoppling från kund.
+* **Handledarmöte:** Ett kort möte där aktuell "sprint backlog" gås igenom, tidsåtgången redovisas, risker diskuteras och övriga problem tas upp. Alla i gruppen ska närvara. Du kommer få ca fem minuter på dig att berätta för gruppen och visa din applikation varpå gruppens medlemmar kan ge konstuktiv feedback.
+* **Test:** Implementerad kod ska hela tiden testas och Du ska ha en tydlig bild av vad som fungerar och vad som inte fungerar.
+* **Ny sprint backlog för nästa vecka:** I slutet av varje iteration så skall en plan för nästa iteration tas fram.
 
 Följande dokument är obligatoriska att lämna in i slutet på projektet, du kommer att arbeta kontinuerligt med dessa genom hela projektet.
-* Iterationsplaner
+
 * Projektvision
 * Kravspecifikation
-* Testspecifikation och testrapporter
-* Individuell tidsrapport
-* Källkod och annan implementation (t.ex. bildfiler)
+* Alla projektets sprint backlogs
+* Testplan och testrapporter
+* Sammanställd individuell tidsrapport
+* Källkod, testkod och annan implementation (t.ex. bildfiler)
 
-Följande dokument är beroende på projektet i sig samt ert egna och kundens behov:
+Följande dokument är beroende på projektet i sig samt ert egna behov:
 * Ordlista
 * Arkitekur och systemdesign
 * Projektplan
 * Risklista
+* Grafisk utformning, Design dokument - Glöm inte att designen ger första och starkast intryck av din applikation. En dålig och ej genomarbetad design kommer ofrånkomligen sänka upplevelsen av din slutprodukt. 
 
 ## Projektgrupp
 Du kommer att arbeta i en mindre projektgrupp. Projekten genomförs individuellt men ni har varandra som stöd och bollplank. Handledning kommer att ske "gruppvis".
 
-Ni bestämmer gemensamt hur och när ni ska samarbeta. Några förslag är att använda varandra som testare, dela gemensam kod, dokument/kodgranskare, diskutera problem, öva på presentationen.
+Ni bestämmer gemensamt hur och när ni ska samarbeta. Några förslag är att använda varandra som testare, dela gemensam kod, dokument/kodgranskare, diskutera problem, öva på presentationen. Varje grupp skapar en egen slackgrupp för diskussioner där också handledaren bjuds in.
 
-Kursledningen bestämmer dessa grupper.
+Kursledningen bestämmer uppdelningen av grupper.
 
 ## Äganderätt
 Allt som producerats under projektets gång (nedan kallat produkten) ägs individuellt av alla projektets parter. Det vill säga du som student, ev. kund samt Linnéuniversitetet. Vilken som helst av dessa parter kan använda produkten eller delar av produkten till vilka ändamål som helst utan att meddela någon annan part. Dock är det god sed att alltid tydligt ange källan till de delar man använder.
