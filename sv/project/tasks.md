@@ -41,7 +41,7 @@ _OBS! Inget handledarmöte denna vecka!_
 * Handledarmöte med leverans och presentation av förra veckans arbete; vision, implementation, sprint backlog.
 * Jobba vidare med att fylla på product backlog.
 * Försök jobba bort tidigare identifierade risker. Börja implementation kopplade till dessa.
-* Utforma en testplan, hur ska applikationen testas; testverktyg, testramverk o.s.v.
+* Utforma en [testplan i din testspecifikation](https://github.com/1dv430/exempelstudent/wiki/Testspecifikation), hur ska applikationen testas; testverktyg, testramverk o.s.v.
 * Kontinuerligt arbete med övrig dokumentation
 * Ta fram ny sprint backlog för nästa vecka
 
