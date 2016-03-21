@@ -10,17 +10,17 @@ Följande moment genomförs varje iteration (vecka):
 * **Ny sprint backlog tas fram:** En ny sprint tas fram där kommande veckas jobb planeras och tidsuppskattas. Varje sprint bör ligga kring 20 timmar.
 
 Övriga obligatoriska moment är:
-* Projektet avslutas med redovisning i form av en muntlig presentation för campus-studenter och en webb-presentation för distansstudenter samt en projektrapport.
+* Projektet avslutas med en inlämning i form av projektrapport (post mortem) samt en inspelad presentation av ditt projekt.
 * Aktivt ansvarsfullt deltagande, vilket innebär att man engagerar sig i projektets alla delar, sköter sin tidsrapportering och arbetar ca 200 timmar i projektet.
 
 ## Vecka 12 (Iteration -1, Kursuppstart)
 ### Uppgifter
 
-* Kursintroduktion, 21/3 2015 15:15-17:00 Ny105 och <a href="https://connect.sunet.se/lecture-1dv430/">online</a> via connecklassrummet. 
+* Kursintroduktion, 21/3 2016 15:15-17:00 Ny105 och <a href="https://connect.sunet.se/lecture-1dv430/">online</a> via connecklassrummet. 
 * Du är medveten om processen och arbetsmomenten som skall genomföras. Gå igenom allt material på kursens webbplats och dess repo på GitHub.
 * Läs minst 3 gamla [post mortems](http://coursepress.lnu.se/kurs/individuellt-mjukvaruutvecklingsprojekt/projektet/post-mortem/) och fundera över vad de gjorde bra och dåligt, vilka erfarenheter tar du till dig?
 * Strukturea din Wiki-sida på GitHub. ([Se exempel](https://github.com/1dv430/exempelstudent/wiki))
-* Visionen påbörjas (fokus på problem/bakgrund samt teknik) skrivs in i Wikin. __Denna vecka ska en beskrivning av ditt projekt och vilka tekniker du ska använda finnas i Wikin. Du kommer annars att avregistreras.__
+* Visionen påbörjas (fokus på problem/bakgrund samt teknik) skrivs in i Wikin. __Denna vecka ska en beskrivning av ditt projekt och vilka tekniker du ska använda finnas i Wikin. Du kommer annars att avregistreras.__ *Dead line: 2016-03-29 08:00*
 * Sprint backlog för första veckans arbete läggs upp i Wikin.
 
 ## Vecka 13 (Iteration 0, Inception)
