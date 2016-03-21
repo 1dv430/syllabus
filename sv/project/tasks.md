@@ -99,5 +99,4 @@ _OBS! Inget handledarmöte denna vecka!_
 ### Uppgifter
 * ** Inget handledarmöte denna vecka! **
 * Färdigställande av all dokumentation som ska lämnas in
-* Arbeta fram Projektpresentationer
 * Projektavslut och Projektrapport
