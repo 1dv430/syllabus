@@ -17,16 +17,16 @@ Vi rekommenderar:
 * [Screenmailer](http://www.screenmailer.com/) (Windows, Mac)
 * [Sreen-o-matic](http://www.screencast-o-matic.com/) (Windows, Mac) 
 
-Filmen ska sedan laddas upp på Youtube.  Du ska även ha en speakerröst på filmen som förklarar vad du gör, dock ska det inte vara någon värdering av funktionaliteten. Filmen ska inte vara längre än 5 min, så se till att vara noggrann när ni visar applikationen. Detta moment kan samköras med filmen i kursen Grafiska gränssnitt.
-* **Post Mortem** – Projektrapport (Gärna skriven i Wikin)
-* Eventuella referat över missade obligatoriska gästföreläsningar.
+Filmen ska sedan laddas upp på Youtube.  Du ska även ha en speakerröst på filmen som förklarar vad du gör, dock ska det inte vara någon värdering av funktionaliteten. Filmen ska inte vara längre än 5 min, så se till att vara noggrann när ni visar applikationen. 
 
+* **Post Mortem** – Projektrapport (skriven i Wikin)
+* Eventuella extrauppgifter för uteblivet deltagande på handledarmöten.
 
 När du är klar så mailar du in följande information till 1dv430@lnu.se:
 
 * Namn:
 * Användarnamn:
-* Url till [Slutrapporten](https://github.com/1dv430/exempelstudent/wiki/Slutrapport)
+* Url till [Wikin](https://github.com/1dv430/exempelstudent/wiki/)
 * Betygsätt din slutapplikation (1-5):
 * Betygsätt din implementation (1-5):
 * Betygsätt dina krav (1-5):
