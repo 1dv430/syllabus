@@ -16,11 +16,11 @@ Följande moment genomförs varje iteration (vecka):
 ## Vecka 12 (Iteration -1, Kursuppstart)
 ### Uppgifter
 
-* Kursintroduktion, 21/3 2016 15:15-17:00 Ny105 och <a href="https://connect.sunet.se/lecture-1dv430/">online</a> via connecklassrummet. 
+* Kursintroduktion, 20/3 2016 11:15-12:00 Ny230 och <a href="https://www.youtube.com/channel/UCfnbjVPdmtULgIVX7ZcB_fw/live">online</a> via Youtube.
 * Du är medveten om processen och arbetsmomenten som skall genomföras. Gå igenom allt material på kursens webbplats och dess repo på GitHub.
 * Läs minst 3 gamla [post mortems](http://coursepress.lnu.se/kurs/individuellt-mjukvaruutvecklingsprojekt/projektet/post-mortem/) och fundera över vad de gjorde bra och dåligt, vilka erfarenheter tar du till dig?
 * Strukturea din Wiki-sida på GitHub. ([Se exempel](https://github.com/1dv430/exempelstudent/wiki))
-* Visionen påbörjas (fokus på problem/bakgrund samt teknik) skrivs in i Wikin. __Denna vecka ska en beskrivning av ditt projekt och vilka tekniker du ska använda finnas i Wikin. Du kommer annars att avregistreras.__ *Deadline: 2016-03-24 08:00*
+* Visionen påbörjas (fokus på problem/bakgrund samt teknik) skrivs in i Wikin. __Denna vecka ska en beskrivning av ditt projekt och vilka tekniker du ska använda finnas i Wikin. Du kommer annars att avregistreras.__ *Deadline: 2016-03-23 08:00*
 * Sprint backlog för första veckans arbete läggs upp i Wikin.
 
 ## Vecka 13 (Iteration 0, Inception)
@@ -69,13 +69,13 @@ _OBS! Inget handledarmöte denna vecka!_
 
 ## Vecka 18 (Iteration 5, Construction)
 ### Uppgifter
-* ** Inget handledarmöte denna vecka! **
+* Handledarmöte med leverans och presentation av förra veckans arbete; vision, implementation, sprint backlog.
 * Fortsatt implementation av funktioner (features) med tillhörande testkod.
 * Kontinuerligt arbete med övrig dokumentation (ny sprint backlog, product backlog, testspecifikation...)
 
 ## Vecka 19 (Iteration 6, Construction)
 ### Uppgifter
-* Handledarmöte med leverans och presentation av förra veckans arbete; vision, implementation, sprint backlog. 
+* Handledarmöte med leverans och presentation av förra veckans arbete; vision, implementation, sprint backlog.
 * Fortsatt implementation av funktioner (features) med tillhörande testkod.
 * Kontinuerligt arbete med övrig dokumentation (ny sprint backlog, product backlog, testspecifikation...)
 
@@ -83,14 +83,14 @@ _OBS! Inget handledarmöte denna vecka!_
 ## Vecka 20 (Iteration 7, Construction)
 ### Uppgifter
 
-* ** Inget handledarmöte denna vecka! **
+* Handledarmöte med leverans och presentation av förra veckans arbete; vision, implementation, sprint backlog. 
 * Fortsatt implementation av funktioner (features) med tillhörande testkod.
 * Kontinuerligt arbete med övrig dokumentation (ny sprint backlog, product backlog, testspecifikation...)
 * Påbörja QA (Quality assurance), det vill säga hårdtesta applikationen så att den verkligen fungerar som den ska enligt de krav/user stories om finns i din product backlog
 
 ## Vecka 21 (Iteration 8, Transition)
 ### Uppgifter
-* Handledarmöte med leverans och presentation av förra veckans arbete; vision, implementation, sprint backlog. 
+* Handledarmöte med leverans och presentation av förra veckans arbete; vision, implementation, sprint backlog.
 * Kontinuerligt arbete med att färdigställa dokumentation (ny sprint backlog, testspecifikation, slutrapport...)
 * Slutför QA (Quality assurance). Dokumentera eventuella buggar som hittas i detta läge och fixa dessa. Applikationen bör nu vara testad och i stort sätt klar för leverans.
 
