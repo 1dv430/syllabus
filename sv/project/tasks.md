@@ -3,7 +3,7 @@ Nedan listas de moment som har en hård deadline för projektet. Allt material s
 
 Följande moment genomförs varje iteration (vecka):
 
-* **Handledarmöte:** Ett kort möte i grupp där vi tillsammans kikar på era applikationer samt går igenom aktuell sprint backlog. Risker diskuteras och övriga problem tas upp. Se till att vaa förberedd på att hålla en presentation i cirka fem minuter där du diskuterar ditt projekt och visar din applikation. Resten av gruppmedlemmarna kommer med konstruktiv feedback efter denna genomgång.
+* **Handledarmöte:** Ett kort möte i grupp där vi tillsammans kikar på era applikationer samt går igenom aktuell sprint backlog. Risker diskuteras och övriga problem tas upp. Se till att vara förberedd på att hålla en presentation i cirka fem minuter där du diskuterar ditt projekt och visar din applikation. Resten av gruppmedlemmarna kommer med konstruktiv feedback efter denna genomgång. Var fokuserad, tiden är knapp.
 * **Leverans:** Systemet skall levereras så realistiskt som möjligt d.v.s. publicerad på en publik webbserver eller till en riktig mobil enhet.
 * **Test:** Applikationens kod ska hela tiden testas via enhets- och integrationstester. Test suits och test cases dokumenteras och kopplas till din product backlog genom att kontinuerligt uppdatera din testspecfikation.
 * **Individuell tidsrapportering:** Innehållandes uppskattad och arbetad tid redovisas i din sprint backlog
@@ -16,11 +16,11 @@ Följande moment genomförs varje iteration (vecka):
 ## Vecka 12 (Iteration -1, Kursuppstart)
 ### Uppgifter
 
-* Kursintroduktion, 20/3 2016 11:15-12:00 Ny230 och <a href="https://www.youtube.com/channel/UCfnbjVPdmtULgIVX7ZcB_fw/live">online</a> via Youtube.
+* Kursintroduktion, 19/3 2016 11:15-12:00 Ny228 och <a href="https://www.youtube.com/channel/UCgYyzMic5Prtr9OW-jvVIYQ/live">online</a> via Youtube.
 * Du är medveten om processen och arbetsmomenten som skall genomföras. Gå igenom allt material på kursens webbplats och dess repo på GitHub.
 * Läs minst 3 gamla [post mortems](http://coursepress.lnu.se/kurs/individuellt-mjukvaruutvecklingsprojekt/projektet/post-mortem/) och fundera över vad de gjorde bra och dåligt, vilka erfarenheter tar du till dig?
 * Strukturea din Wiki-sida på GitHub. ([Se exempel](https://github.com/1dv430/exempelstudent/wiki))
-* Visionen påbörjas (fokus på problem/bakgrund samt teknik) skrivs in i Wikin. __Denna vecka ska en beskrivning av ditt projekt och vilka tekniker du ska använda finnas i Wikin. Du kommer annars att avregistreras.__ *Deadline: 2016-03-23 08:00*
+* Visionen påbörjas (fokus på problem/bakgrund samt teknik) skrivs in i Wikin. __Denna vecka ska en beskrivning av ditt projekt och vilka tekniker du ska använda finnas i Wikin. Du kommer annars att avregistreras.__ *Deadline: 2016-03-22 08:00*
 * Sprint backlog för första veckans arbete läggs upp i Wikin.
 
 ## Vecka 13 (Iteration 0, Inception)
@@ -92,7 +92,7 @@ _OBS! Inget handledarmöte denna vecka!_
 ### Uppgifter
 * Handledarmöte med leverans och presentation av förra veckans arbete; vision, implementation, sprint backlog.
 * Kontinuerligt arbete med att färdigställa dokumentation (ny sprint backlog, testspecifikation, slutrapport...)
-* Slutför QA (Quality assurance). Dokumentera eventuella buggar som hittas i detta läge och fixa dessa. Applikationen bör nu vara testad och i stort sätt klar för leverans.
+* Slutför QA (Quality assurance). Dokumentera eventuella buggar som hittas i detta läge och fixa dessa. Applikationen bör nu vara testad och i stort sett klar för leverans.
 
 
 ## Vecka 22 (Avslut)
