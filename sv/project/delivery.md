@@ -22,7 +22,7 @@ Filmen ska sedan laddas upp på Youtube.  Du ska även ha en speakerröst på fi
 * **Post Mortem** – Projektrapport (skriven i Wikin)
 * Eventuella extrauppgifter för uteblivet deltagande på handledarmöten.
 
-När du är klar så mailar du in följande information till 1dv430@lnu.se:
+När du är klar så fyller du i följande formulär: länk till formulär kommer följande ska in.
 
 * Namn:
 * Användarnamn:
