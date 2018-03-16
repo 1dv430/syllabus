@@ -7,7 +7,7 @@ __Kursansvarig__
 
 * Epost: tobias.ohlsson@lnu.se
 * Skype: tobias_ohlsson_hik_ikd
-* GitHub: [tobias_dv_lnu](https://github.com/tobias_dv_lnu)
+* GitHub: [tobias-dv-lnu](https://github.com/tobias-dv-lnu)
 * Twitter: @T0bias0lss0n
 
 ###[Johan Hagelbäck](http://lnu.se/personal/johan.hagelback)
