@@ -16,11 +16,11 @@ Följande moment genomförs varje iteration (vecka):
 ## Vecka 12 (Iteration -1, Kursuppstart)
 ### Uppgifter
 
-* Kursintroduktion, 19/3 2016 11:15-12:00 Ny228 och <a href="https://www.youtube.com/channel/UCgYyzMic5Prtr9OW-jvVIYQ/live">online</a> via Youtube.
+* Kursintroduktion, 19/3 2018 11:15-12:00 Ny228 och <a href="https://www.youtube.com/channel/UCgYyzMic5Prtr9OW-jvVIYQ/live">online</a> via Youtube.
 * Du är medveten om processen och arbetsmomenten som skall genomföras. Gå igenom allt material på kursens webbplats och dess repo på GitHub.
 * Läs minst 3 gamla [post mortems](http://coursepress.lnu.se/kurs/individuellt-mjukvaruutvecklingsprojekt/projektet/post-mortem/) och fundera över vad de gjorde bra och dåligt, vilka erfarenheter tar du till dig?
 * Strukturea din Wiki-sida på GitHub. ([Se exempel](https://github.com/1dv430/exempelstudent/wiki))
-* Visionen påbörjas (fokus på problem/bakgrund samt teknik) skrivs in i Wikin. __Denna vecka ska en beskrivning av ditt projekt och vilka tekniker du ska använda finnas i Wikin. Du kommer annars att avregistreras.__ *Deadline: 2016-03-22 08:00*
+* Visionen påbörjas (fokus på problem/bakgrund samt teknik) skrivs in i Wikin. __Denna vecka ska en beskrivning av ditt projekt och vilka tekniker du ska använda finnas i Wikin. Du kommer annars att avregistreras.__ *Deadline: 2018-03-22 08:00*
 * Sprint backlog för första veckans arbete läggs upp i Wikin.
 
 ## Vecka 13 (Iteration 0, Inception)
