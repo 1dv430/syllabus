@@ -21,7 +21,7 @@ Följande moment genomförs varje iteration (vecka):
 * Läs minst 3 gamla [post mortems](http://coursepress.lnu.se/kurs/individuellt-mjukvaruutvecklingsprojekt/projektet/post-mortem/) och fundera över vad de gjorde bra och dåligt, vilka erfarenheter tar du till dig?
 * Strukturea din Wiki-sida på GitHub. ([Se exempel](https://github.com/1dv430/exempelstudent/wiki))
 * Visionen påbörjas (fokus på problem/bakgrund samt teknik) skrivs in i Wikin. __Denna vecka ska en beskrivning av ditt projekt och vilka tekniker du ska använda finnas i Wikin. Du kommer annars att avregistreras.__ *Deadline: 2018-03-22 08:00*
-* Sprint backlog för första veckans arbete läggs upp i Wikin.
+* Sprint backlog för denna veckans arbete läggs upp i Wikin (eftersom du antagligen inte planerat arbetet blir detta mer som en tidsrapport).
 
 ## Vecka 13 (Iteration 0, Inception)
 ### Uppgifter
@@ -32,7 +32,8 @@ _OBS! Inget handledarmöte denna vecka!_
 * Product backlog påbörjas.
 * Implementationen påbörjas, kanske i form av prototyper. Undersök tekniker.
 * Börja utforma risklista. Vad kan bli problem? Vad kan bli svårt? Vilka risker måste vi elimenera först?
-* Skapa en sprint backlog för iteration 1.
+* Sprint backlog för denna veckans arbete läggs upp i Wikin (eftersom du antagligen inte planerat arbetet blir detta mer som en tidsrapport).
+* Skapa en sprint backlog för iteration 1 (alltså en plan för kommande veckan).
 * Tid för gruppens handledarmöte bestäms. (Ansv. kursledning)
 
 ## Vecka 14 (Iteration 1, Elaboration)
@@ -42,7 +43,7 @@ _OBS! Inget handledarmöte denna vecka!_
 * Jobba vidare med att fylla på product backlog.
 * Försök jobba bort tidigare identifierade risker. Börja implementation kopplade till dessa.
 * Utforma en [testplan i din testspecifikation](https://github.com/1dv430/exempelstudent/wiki/Testspecifikation), hur ska applikationen testas; testverktyg, testramverk o.s.v.
-* Kontinuerligt arbete med övrig dokumentation
+* Kontinuerligt arbete med övrig dokumentation (t.ex. hålla veckans sprint backlog uppdaterad med tider)
 * Ta fram ny sprint backlog för nästa vecka
 
 ## Vecka 15 (Iteration 2, Elaboration)
