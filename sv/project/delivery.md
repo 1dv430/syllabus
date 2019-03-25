@@ -22,6 +22,15 @@ Filmen ska sedan laddas upp på Youtube.  Du ska även ha en speakerröst på fi
 * **Post Mortem** – Projektrapport (skriven i Wikin)
 * Eventuella extrauppgifter för uteblivet deltagande på handledarmöten.
 
-När du är klar så fyller du i följande formulär: [Formulär för Slutleverans](https://goo.gl/forms/hnd7AJHljMwDjRdv1)
+När du är klar så mailar du in följande information till 1dv430@lnu.se:
 
-
+* Namn:
+* Användarnamn:
+* Url till [Wikin](https://github.com/1dv430/exempelstudent/wiki/)
+* Betygsätt din slutapplikation (1-5):
+* Betygsätt din implementation (1-5):
+* Betygsätt dina krav (1-5):
+* Betygsätt din testning (1-5):
+* Betygsätt din planering (1-5):
+* Hur många timmar har du arbetat totalt:
+* Ev. Övrig information:
