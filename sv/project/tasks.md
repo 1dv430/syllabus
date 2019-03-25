@@ -16,7 +16,7 @@ Följande moment genomförs varje iteration (vecka):
 ## Vecka 13 (Iteration -1, Kursuppstart)
 ### Uppgifter
 
-* Kursintroduktion, 26/3 2018 09:15-10:00 Ny412 och <a href="https://www.youtube.com/channel/UCgYyzMic5Prtr9OW-jvVIYQ/live">online</a> via Youtube.
+* Kursintroduktion, 26/3 2019 09:15-10:00 Ny412 och <a href="https://www.youtube.com/channel/UCgYyzMic5Prtr9OW-jvVIYQ/live">online</a> via Youtube.
 * Du är medveten om processen och arbetsmomenten som skall genomföras. Gå igenom allt material på kursens webbplats och dess repo på GitHub.
 * Läs minst 3 gamla [post mortems](http://coursepress.lnu.se/kurs/individuellt-mjukvaruutvecklingsprojekt/projektet/post-mortem/) och fundera över vad de gjorde bra och dåligt, vilka erfarenheter tar du till dig?
 * Strukturea din Wiki-sida på GitHub. ([Se exempel](https://github.com/1dv430/exempelstudent/wiki))
