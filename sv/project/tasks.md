@@ -1,5 +1,5 @@
 ## Översikt
-Nedan listas de moment som har en hård deadline för projektet. Allt material som framställs inom projektet skall versionshanteras och finnas i ditt respositorium på GitHub.
+Nedan listas de moment som har en hård deadline för projektet. Allt material som framställs inom projektet skall versionshanteras och finnas i ditt respositorium på GitLab.
 
 Följande moment genomförs varje iteration (vecka):
 
@@ -17,9 +17,9 @@ Följande moment genomförs varje iteration (vecka):
 ### Uppgifter
 
 * Kursintroduktion, 26/3 2019 09:15-10:00 Ny412 och <a href="https://www.youtube.com/channel/UCgYyzMic5Prtr9OW-jvVIYQ/live">online</a> via Youtube.
-* Du är medveten om processen och arbetsmomenten som skall genomföras. Gå igenom allt material på kursens webbplats och dess repo på GitHub.
+* Du är medveten om processen och arbetsmomenten som skall genomföras. Gå igenom allt material på kursens webbplats.
 * Läs minst 3 gamla [post mortems](http://coursepress.lnu.se/kurs/individuellt-mjukvaruutvecklingsprojekt/projektet/post-mortem/) och fundera över vad de gjorde bra och dåligt, vilka erfarenheter tar du till dig?
-* Strukturea din Wiki-sida på GitHub. ([Se exempel](https://github.com/1dv430/exempelstudent/wiki))
+* Strukturea din dokumentation på GitLab, dokumentationen ska finnas i en mapp vid namn "docs", en readme.md ska finnas som länkar till övrig dokumentation. ([Se exempel](https://github.com/1dv430/exempelstudent/wiki))
 * Visionen påbörjas (fokus på problem/bakgrund samt teknik) skrivs in i Wikin. __Denna vecka ska en beskrivning av ditt projekt och vilka tekniker du ska använda finnas i Wikin. Du kommer annars att avregistreras.__ *Deadline: 2019-04-01 08:00*
 * Sprint backlog för denna veckans arbete läggs upp i Wikin (eftersom du antagligen inte planerat arbetet blir detta mer som en tidsrapport).
 
