@@ -1,8 +1,8 @@
 Nedan beskrivs hur slutleveransen går till och vad som skall finnas med.
 
-Slutleveransen sker genom att alla delar i projektet finns tillgängliga i ditt github respositorium och dess tillhörande Wiki. Allt skall vara versionshanterat och man skall kunna följa hur varje dokument har växt fram och arbetats på. 
+Slutleveransen sker genom att alla delar i projektet finns tillgängliga i ditt gitlab respositorium. Allt skall vara versionshanterat och man skall kunna följa hur varje dokument har växt fram och arbetats på. Dokumentation ska finnas i en mapp "docs" i den ska det finnas en readme.md som länkar vidare till lämpliga dokument.
 
-Följande delar skall ingå i leveransen (Sammanställt på wikins startsida):
+Följande delar skall ingå i leveransen (Sammanställt i docs/readme.md):
 
 * **Vision**
 * **Kravspecifikation**/Product Backlog
@@ -17,16 +17,16 @@ Vi rekommenderar:
 * [Screenmailer](http://www.screenmailer.com/) (Windows, Mac)
 * [Sreen-o-matic](http://www.screencast-o-matic.com/) (Windows, Mac) 
 
-Filmen ska sedan laddas upp på Youtube.  Du ska även ha en speakerröst på filmen som förklarar vad du gör, dock ska det inte vara någon värdering av funktionaliteten. Filmen ska inte vara längre än 5 min, så se till att vara noggrann när ni visar applikationen. 
+Filmen ska sedan laddas upp på Youtube.  Du ska även ha en speakerröst på filmen som förklarar vad du gör, dock ska det inte vara någon värdering av funktionaliteten. Filmen ska inte vara längre än 5 min, så se till att vara noggrann när du visar applikationen. 
 
-* **Post Mortem** – Projektrapport (skriven i Wikin)
+* **Post Mortem** – Projektrapport
 * Eventuella extrauppgifter för uteblivet deltagande på handledarmöten.
 
-När du är klar så mailar du in följande information till 1dv430@lnu.se:
+När du är klar så skapar du ett "final delivery" issue och sätter etikett inlämnad. Din issue ska innehålla följande information:
 
 * Namn:
 * Användarnamn:
-* Url till [Wikin](https://github.com/1dv430/exempelstudent/wiki/)
+* Url till din docs/readme.md
 * Betygsätt din slutapplikation (1-5):
 * Betygsätt din implementation (1-5):
 * Betygsätt dina krav (1-5):
