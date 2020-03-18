@@ -1,4 +1,4 @@
-För att kontakta kursledningen använder du funktionsepostadressen [1dv430@lnu.se](mailto:1dv430@lnu.se). Då når du personerna nedan. 
+Använd främst kursens slack-kanal för ev. frågor.
 
 ##Kursledning
 
