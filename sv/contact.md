@@ -2,19 +2,27 @@ För att kontakta kursledningen använder du funktionsepostadressen [1dv430@lnu.
 
 ##Kursledning
 
-###[Johan Leitet](http://lnu.se/personal/johan.leitet)
+###[Tobias Ohlsson](http://lnu.se/personal/tobias.ohlsson)
 __Kursansvarig__
 
-* Epost: johan.leitet@lnu.se
-* GitHub: [leitet](https://github.com/leitet)
-* Twitter: @Leitet
+* Epost: tobias.ohlsson@lnu.se
 
-###[John Häggerud](http://lnu.se/personal/john.haggerud)
+###[Francis Palma](http://lnu.se/personal/francis.palma)
+__Examinator__, __Handledare__
 
-* Epost: john.haggerud@lnu.se
-* GitHub: [thajo](http://github.com/thajo)
+* Epost: francis.palma@lnu.se
 
-###[Mats Loock](http://lnu.se/personal/mats.loock)
+###[Daniel Toll](http://lnu.se/personal/daniel.toll)
+__Handledare__
 
-* Epost: mats.loock@lnu.se
-* GitHub: 
+* Epost: daniel.toll@lnu.se
+
+
+###[Martin Östlund](http://lnu.se/personal/martin.ostlund)
+__Handledare__
+
+* Epost: martin.ostlund@lnu.se
+
+###Adam Bergman
+__Handledare__, __Ammanuens__
+
