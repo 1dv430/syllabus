@@ -21,7 +21,7 @@ Följande moment genomförs varje iteration (vecka):
 * Läs minst 3 gamla [post mortems](http://coursepress.lnu.se/kurs/individuellt-mjukvaruutvecklingsprojekt/projektet/post-mortem/) och fundera över vad de gjorde bra och dåligt, vilka erfarenheter tar du till dig?
 * Strukturea din dokumentation på GitLab, dokumentationen ska finnas i en mapp vid namn "docs", en readme.md ska finnas som länkar till övrig dokumentation. ([Se exempel](https://github.com/1dv430/exempelstudent/wiki))
 * Visionen påbörjas (fokus på problem/bakgrund samt teknik) skrivs in i Wikin. __Denna vecka ska en beskrivning av ditt projekt och vilka tekniker du ska använda lämnas in. Du kommer annars att avregistreras.__ 
-* Sprint backlog för denna veckans arbete läggs upp i Wikin (eftersom du antagligen inte planerat arbetet blir detta mer som en tidsrapport).
+* Sprint backlog för denna veckans arbete läggs upp (eftersom du antagligen inte planerat arbetet blir detta mer som en tidsrapport).
 
 ## Vecka 14 (Iteration 0, Inception)
 ### Uppgifter
@@ -32,7 +32,7 @@ _OBS! Inget handledarmöte denna vecka!_
 * Product backlog påbörjas.
 * Implementationen påbörjas, kanske i form av prototyper. Undersök tekniker.
 * Börja utforma risklista. Vad kan bli problem? Vad kan bli svårt? Vilka risker måste vi elimenera först?
-* Sprint backlog för denna veckans arbete läggs upp i Wikin (eftersom du antagligen inte planerat arbetet blir detta mer som en tidsrapport).
+* Sprint backlog för denna veckans arbete läggs upp i.
 * Skapa en sprint backlog för iteration 1 (alltså en plan för kommande veckan).
 * Tid för gruppens handledarmöte bestäms. (Ansv. kursledning)
 
