@@ -20,7 +20,7 @@ Följande moment genomförs varje iteration (vecka):
 * Du är medveten om processen och arbetsmomenten som skall genomföras. Gå igenom allt material på kursens webbplats.
 * Läs minst 3 gamla [post mortems](http://coursepress.lnu.se/kurs/individuellt-mjukvaruutvecklingsprojekt/projektet/post-mortem/) och fundera över vad de gjorde bra och dåligt, vilka erfarenheter tar du till dig?
 * Strukturea din dokumentation i GitLabs wiki, ([Se exempel](https://github.com/1dv430/exempelstudent/wiki))
-* Visionen påbörjas (fokus på problem/bakgrund samt teknik) skrivs in i Wikin. __Denna vecka ska en beskrivning av ditt projekt och vilka tekniker du ska använda lämnas in. Du kommer annars att avregistreras.__ 
+* Visionen påbörjas (fokus på problem/bakgrund samt teknik) skrivs in i Wikin. Fyll i formulär för inlämning av vision. __Denna vecka ska en beskrivning av ditt projekt och vilka tekniker du ska använda lämnas in. Du kommer annars att avregistreras.__ 
 * Sprint backlog för denna veckans arbete läggs upp (eftersom du antagligen inte planerat arbetet blir detta mer som en tidsrapport).
 
 ## Vecka 14 (Iteration 0, Inception)
