@@ -6,7 +6,7 @@ Dokumentationen skall uteslutande presenteras via dit repros Wiki-sidor. Ett exe
 
 Vill du veta mer om hur man arbetar med GitHub-wiki så kan du läsa om det här: [https://help.github.com/articles/about-github-wikis/](https://help.github.com/articles/about-github-wikis/)
 
-Observera att wikin i sig är ett eget repo så att du kan enkelt clona repot och arbeta med det lokalt om du så önskar, eller så använder du gränssnittet via GitHub. All dokumentation skrivs alltså i md-format.          
+Observera att wikin i sig är ett eget repo så att du kan enkelt clona repot och arbeta med det lokalt om du så önskar, eller så använder du gränssnittet via GitLab. All dokumentation skrivs alltså i md-format.          
 
 Tänk på att göra förfarandet med dokumentationen så enkel som möjligt så att du orkar hålla den uppdaterad. Tänk också på att det är uppmuntrat att förändra det som inte funkar i dokumentationen under projektets gång.
 
