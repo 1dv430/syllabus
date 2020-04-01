@@ -7,8 +7,6 @@ På projektdelen i kursen ges betyget U (underkänt), 3 (tre), 4 (fyra) eller 5 
 För att uppnå betyg 3 måste alla uppgifter i projektet genomföras och bli godkända (se [projektuppgifter](http://coursepress.lnu.se/kurs/individuellt-mjukvaruutvecklingsprojekt/projektet/projektuppgifter/)).
 Applikationen måste ha en viss svårighetsgrad/storlek. Att t.ex. göra en enkel blogg är inte tillräckligt svårt/stort. Att implementera en blogg med möjligheter till kommentarer, bildgalleri, kategorier, taggar, formatering av inlägg, spamhantering är däremot tillräckligt. Det kan också vara som så att delar som inte bara rör projektet som helhet kan vägas in i svårighetsgraden. Sätta upp en pipeline för kontinuerlig leverans? Är du osäker så fråga din handledare.
 
-För godkänt betyg ska du också varit med på minst sex av de åtta gruppmötena som sker genom kursensgång. Uppnås inte detta tillkommer en kompletterande uppgift för godkänt på kursen.
-
 Att kopiera implementation och presentera denna som sin egen betraktas som försök till vilseledande vid examination. Detta kommer att anmälas till skolans disciplinnämnd. Om du använder någon annans implementation så måste detta tydligt anges och de delar som du själv ha bidragit med markeras. Du måste även följa de licenser som den kod du använder är släppt under. Ditt projekt måste också innehålla en betydande mängd extra funktionalitet som du själv har implementerat för att uppnå betyg 3.
 
 För att uppnå ett högre betyg än 3 måste alla uppgifter i projektet genomföras och lämnas in innan utsatta deadlines. Uppgifterna ska bli godkända men lösningen ska vara något extra, något över våra förväntningar. Arbetet ska dessutom vara mycket bra dokumenterat med ett bra och strukturerat arbetssätt.
@@ -43,7 +41,7 @@ Följande dokument är beroende på projektet i sig samt ert egna behov:
 ## Projektgrupp
 Du kommer att arbeta i en mindre projektgrupp. Projekten genomförs individuellt men ni har varandra som stöd och bollplank. Handledning kommer att ske "gruppvis".
 
-Ni bestämmer gemensamt hur och när ni ska samarbeta. Några förslag är att använda varandra som testare, dela gemensam kod, dokument/kodgranskare, diskutera problem, öva på presentationen. Varje grupp skapar en egen slackgrupp för diskussioner där också handledaren bjuds in.
+Ni bestämmer gemensamt hur och när ni ska samarbeta. Några förslag är att använda varandra som testare, dela gemensam kod, dokument/kodgranskare, diskutera problem, öva på presentationen. 
 
 Kursledningen bestämmer uppdelningen av grupper.
 
